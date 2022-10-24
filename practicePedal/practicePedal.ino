@@ -52,7 +52,7 @@ bool checkCandyDispense(int voltage) {
     if (sw.isRunning()) {
       sw.stop();
     }
-    if (!dispenced) { //Dispensing candy by rotating the central servo in our dropping mechanism
+    if (!dispenced) { //Dispensing candy by rotating the central servo in our dropping mechanism, and returing to grab another
       arm.write(180);
       delay(3000);
       arm.write(-180);
@@ -96,7 +96,7 @@ void setup() { //Setting up servo, analog pins, lcd, etc...
   lcd.createChar(3, customChar);
 }
 
-void loop() { //Constantly checking the guitar input into our pedal to see how we should update the screen and/or give candy with the servo
+void loop() { //Frequently checking the guitar input into our pedal to see how we should update the screen and/or give candy with the servo
   int voltage = readInput();
   bool dispenced = checkCandyDispense(voltage);
   updateScreen(dispenced);
