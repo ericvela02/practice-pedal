@@ -12,6 +12,7 @@ This project focuses on repurposing old guitar pedals into gamified devices to m
 ![dispenser](resources/final_dispenserproto.jpg)
 ![back of the dispenser](resources/protoback.jpg)
 ![lcd](resources/ldcscreen_wcustomchar.jpg)
+![dispenser, no plexiglass w/ lcd in view](resources/intermediate_dispenserproto.jpg)
 
 
 
