@@ -1,4 +1,4 @@
-# Practice Pedal
+# Practice Pedal :zap::guitar:
 
 The Practice Pedal project was completed during **HackGT9 Retro Reset** and won the **Best Hardware Hack 🛠️ Award**! Check out our [Devpost](https://devpost.com/software/practice-pedals).
 
