@@ -11,6 +11,7 @@ This project focuses on repurposing old guitar pedals into gamified devices to m
 
 ## Images
 
+#### Electric Guitar Signal on Oscilloscope
 #### Repurposed Vintage Guitar Pedal
 ![dispenser](resources/repurposed_guitarpedal.jpg)
 
