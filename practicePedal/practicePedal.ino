@@ -45,7 +45,7 @@ int readInput() { //Reading clean/processed signals (from the op amp, rectifier,
   }
 }
 
-bool checkCandyDispense(int voltage) {
+bool checkCandyDispense(int voltage) { //Checking user progress towards milestone, and dispensing if appropriate
   totalTime = sw.elapsed();
 
   if (totalTime >= LIMIT + 1) {
