@@ -1,6 +1,6 @@
 # Practice Pedal :zap::guitar:
 
-The Practice Pedal project was completed during **HackGT9 Retro Reset** and won the **Best Hardware Hack 🛠️ Award**! Check out our [Devpost](https://devpost.com/software/practice-pedals).
+The Practice Pedal project was completed during **HackGT9 Retro Reset** and won the **Best Hardware Hack 🛠️ Award**! Check out our ~[Devpost](https://devpost.com/software/practice-pedals)~ for videos and more!
 
 This project focuses on repurposing old guitar pedals into gamified devices to motivate kids to practice and get passionate about playing the electric guitar. 
 
@@ -10,6 +10,8 @@ This project focuses on repurposing old guitar pedals into gamified devices to m
 4. The dispenser device can be loaded up with starbursts, and each time a player hits a milestone, it has a central servo motor that is activated, dropping a single starbust through our mechanism. The dispenser device also has an LCD display, which we use to show time-elapsed playing and the goal time. This LCD also displays a "Congrats!" screen upon hitting the milestone, along with a custom music note character that we programmed in. 
 
 ![dispenser](resources/final_dispenserproto.jpg)
+
+![lcd](resources/lcdscreen_wcustomchar.jpg)
 
 
 
