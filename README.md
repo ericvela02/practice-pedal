@@ -11,7 +11,5 @@ This project focuses on repurposing old guitar pedals into gamified devices to m
 
 ![dispenser](resources/final_dispenserproto.jpg)
 
-practice-pedal is a program loaded into the Arduino Nano used for the practice pedal project submitted at HackGT9.
-
 
 
