@@ -8,8 +8,9 @@ This project focuses on repurposing old guitar pedals into gamified devices to m
 2. This Arduino Nano then communicates via a custom heat-shrinked cable to a dispensing device that we built. 
 3. The dispenser device can be loaded up with starbursts, and each time a player hits a milestone, it has a central servo motor that is activated, dropping a single starbust through our mechanism. The dispenser device also has an LCD display, which we use to show time-elapsed playing and the goal time. This LCD also displays a "Congrats!" screen upon hitting the milestone, along with a custom music note character that we programmed in. 
 
+![](resources/final_dispenserproto.jpg)
+*image_caption*
 practice-pedal is a program loaded into the Arduino Nano used for the practice pedal project submitted at HackGT9.
 
 
-![](resources/final_dispenserproto.jpg)
-*image_caption*
+
