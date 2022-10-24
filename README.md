@@ -1,6 +1,6 @@
 # Practice Pedal :zap::guitar:
 
-The Practice Pedal project was completed during **HackGT9 Retro Reset** and won the **Best Hardware Hack 🛠️ Award**! Check out our ~[Devpost](https://devpost.com/software/practice-pedals)~ for videos and more!
+The Practice Pedal project was completed during **HackGT9 Retro Reset** and won the **Best Hardware Hack 🛠️ Award**! Check out our \~[Devpost](https://devpost.com/software/practice-pedals)\~ for videos and more!
 
 This project focuses on repurposing old guitar pedals into gamified devices to motivate kids to practice and get passionate about playing the electric guitar. 
 
